@@ -1,0 +1,12 @@
+C:\FIX\DigiMenu\Core\bin\Debug\net6.0\Core.deps.json
+C:\FIX\DigiMenu\Core\bin\Debug\net6.0\Core.dll
+C:\FIX\DigiMenu\Core\bin\Debug\net6.0\Core.pdb
+C:\FIX\DigiMenu\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\FIX\DigiMenu\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIX\DigiMenu\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\FIX\DigiMenu\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\FIX\DigiMenu\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\FIX\DigiMenu\Core\obj\Debug\net6.0\Core.dll
+C:\FIX\DigiMenu\Core\obj\Debug\net6.0\refint\Core.dll
+C:\FIX\DigiMenu\Core\obj\Debug\net6.0\Core.pdb
+C:\FIX\DigiMenu\Core\obj\Debug\net6.0\ref\Core.dll

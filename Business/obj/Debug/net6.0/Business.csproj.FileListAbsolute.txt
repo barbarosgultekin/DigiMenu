@@ -1,0 +1,17 @@
+C:\FIX\DigiMenu\Business\bin\Debug\net6.0\Business.deps.json
+C:\FIX\DigiMenu\Business\bin\Debug\net6.0\Business.dll
+C:\FIX\DigiMenu\Business\bin\Debug\net6.0\Business.pdb
+C:\FIX\DigiMenu\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\FIX\DigiMenu\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIX\DigiMenu\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\FIX\DigiMenu\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\FIX\DigiMenu\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\FIX\DigiMenu\Business\obj\Debug\net6.0\Business.dll
+C:\FIX\DigiMenu\Business\obj\Debug\net6.0\refint\Business.dll
+C:\FIX\DigiMenu\Business\obj\Debug\net6.0\Business.pdb
+C:\FIX\DigiMenu\Business\obj\Debug\net6.0\ref\Business.dll
+C:\FIX\DigiMenu\Business\bin\Debug\net6.0\Core.dll
+C:\FIX\DigiMenu\Business\bin\Debug\net6.0\DataAccess.dll
+C:\FIX\DigiMenu\Business\bin\Debug\net6.0\Core.pdb
+C:\FIX\DigiMenu\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\FIX\DigiMenu\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
